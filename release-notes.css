@@ -1,0 +1,60 @@
+body {
+/*  font-family: Arial, Helvetica, sans-serif;*/
+  color: #cdd3da;
+  background-color: #24292e;
+  font-size:smaller;
+  /* background-image: url('f9nabtuotuulifex.jpg'); */
+  background-image: url('sliver-of-planet-jupiter-uqe19x8bdu3zn9r1.jpg');
+  /* background-image: url('ddbvyzgtijd31.jpg'); */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+a:link {
+  /* color:black;  */
+  text-decoration:none;
+}
+a:hover {color:red;}
+
+h3 {
+  text-align: center;
+  margin-top: 1em;
+}
+
+div.Milestone-Container {
+  margin-bottom: 50px;
+}
+
+div.Milestone-Title {
+  background-color: #E4701E;
+  color: #edeff0;
+  font-size: larger;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+div.Milestone-Date {
+  font-size: larger;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+div.Issue-Row {
+  margin-top:10px;
+}
+
+div.Issue-Type {
+  border-radius: 5px;
+}
+
+div.Issue-Type-Added {
+  background-color: #0E8A16;
+}
+
+div.Issue-Type-Fixed {
+  background-color: #d73a4a;
+}
+
+div.Issue-Type-Changed {
+  background-color: #1244cf;
+}
